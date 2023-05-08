@@ -1,4 +1,6 @@
 # LandingPages
  
- Projetos Land Pages feitos para estudo/revisão de conceitos HTML, CSS e JS
+ Landing pages  construídas com o intuito de estudo/revisão de conceitos HTML, CSS e JS. 
+ 
+ 
  
