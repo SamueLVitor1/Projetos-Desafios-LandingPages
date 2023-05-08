@@ -1,6 +1,6 @@
 # Móveis Customizados
 
-  <img src="imagens/exemplo.png" alt="imagem completo da página Móveis Customizados" width="400px" >
+  <img src="imagens/exemplo.png" alt="imagem completo da página Móveis Customizados">
 
 - Land Page criada no curso Explorer da Rocketseat, para o ensinamento da introdução de conceitos de HTML e CSS
 
