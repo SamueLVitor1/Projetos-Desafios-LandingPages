@@ -1,6 +1,6 @@
 ## RocketNews
 
- <img src="/src/img/exemplo.png" alt="imagem da página RocketNews">
+ <img src="./src/img/exemplo.png" alt="imagem da página RocketNews">
 
   📝Land page construída a partir de um desafio simples chamado RocketNews da plataforma rocketseat!
 
