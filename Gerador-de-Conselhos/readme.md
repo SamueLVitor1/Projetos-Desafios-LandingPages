@@ -7,6 +7,8 @@
   <img src="./src/img/mobile.png" alt="gif da página" width="200px" >
 </div>  
 
+</br>
+
   📌Layout de um gerador de conselhos do desafio do Frontend Mentor, ainda falta a parte de interação do JavaScript
 
   🛠️Tecnologias usadas:
