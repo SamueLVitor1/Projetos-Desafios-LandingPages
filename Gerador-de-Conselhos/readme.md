@@ -1,8 +1,11 @@
 # Gerador de Conselho
 
+<div align="center">
   <img src="./src/img/Gerador-de-Conselhos.gif" alt="gif da página" width="500px">
+</div>
+<div align="center">
   <img src="./src/img/mobile.png" alt="gif da página" width="200px" >
-
+</div>  
 
   📌Layout de um gerador de conselhos do desafio do Frontend Mentor, ainda falta a parte de interação do JavaScript
 
