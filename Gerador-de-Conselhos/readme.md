@@ -9,9 +9,11 @@
 
 </br>
 
-  📌Layout de um gerador de conselhos do desafio do Frontend Mentor, ainda falta a parte de interação do JavaScript
+  📝Layout de um gerador de conselhos do desafio do Frontend Mentor, ainda falta a parte de interação do JavaScript
+  
+  👾 <a href="https://samuelvitor1.github.io/Projetos-Desafios-LandingPages/Gerador-de-Conselhos/index.html">Site</a>
 
-  🛠️Tecnologias usadas:
+  🖥️Tecnologias usadas:
 
    <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
