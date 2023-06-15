@@ -15,7 +15,7 @@
 
   <img src="./src/img/icons8-discord-48.png" width="18px"> <a href="https://discord.com/channels/853354677411905578/853363178901733387">Discord </a>
   
-  👾 <a href="">Site</a>
+  👾 <a href="https://samuelvitor1.github.io/Projetos-Desafios-LandingPages/Codel%C3%A2ndia%20Blog/index.html">Site</a>
 
   🖥️Tecnologias usadas:
 
