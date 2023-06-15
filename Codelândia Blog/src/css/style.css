@@ -1,0 +1,123 @@
+:root{
+  font-size: 62.5%;
+}
+
+html, body{
+  font-size: 1.6rem;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+body{
+  background-color:#F3F5F7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.containerheader-Color{
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
+
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+}
+
+.header{
+  max-width: 90rem;
+  width: 100%;
+  padding: 30px 10px;
+
+  position: relative;
+  bottom: 0;
+}
+
+.header .infoHeader{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: 7.2rem;
+}
+
+.header .infoHeader .logoHeader{
+  font-size: 2.4rem;
+}
+
+.header .infoHeader a{
+  transition: transform 0.3s ease-in-out;
+}
+
+.header .infoHeader a:hover{
+  color: #1a202c;
+  transform: scale(1.05);
+}
+
+.header form input{
+  background: url(../img/lupa\ icon.svg) no-repeat center left 20px / 20px ;
+  background-color: rgba(255, 255, 255, 0.247);
+
+  border: none;
+  border-radius: 5px;
+  padding: 20px 52px;
+  width: 100%;
+  height: 4rem;
+}
+
+input::placeholder,
+.header form input {
+  color: #fff;
+}
+
+/* ------------------------------------------ */
+.main{
+  max-width: 90rem;
+  width: 100%;
+
+  margin-top: 10rem;
+  padding: 0 10px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+}
+
+.main .articleBlog{
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+  border-radius: 5px;
+
+  padding: 2.2rem 2.5rem;
+}
+
+.main .articleBlog .headerArticle{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2.2rem;
+}
+
+.articleBlog .headerArticle .heart-icon{
+  transition: transform 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.articleBlog .headerArticle .heart-icon:hover{
+  transform: scale(1.2);
+}
+
+.main .articleBlog .titleArticle{
+  font-weight: 400;
+  font-size: 2.6rem;
+  color: #1A202C;
+  margin-bottom: 8px;
+}
+
+.main .articleBlog .paragraphArticle{
+  font-size: 1.8rem;
+  line-height: 32px;
+  color: #717171;
+}
