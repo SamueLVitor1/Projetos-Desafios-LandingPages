@@ -13,7 +13,7 @@
 
   <br>
 
-  👾 <a href="file:///C:/Users/SAMUEL/Desktop/GitHub/Projetos-Desafios-LandingPages/Tela-de-Login-RiotGames/index.html">Site</a>
+  👾 <a href="https://samuelvitor1.github.io/Projetos-Desafios-LandingPages/Tela-de-Login-RiotGames/index.html">Site</a>
 
   🖥️Tecnologias usadas:
 
