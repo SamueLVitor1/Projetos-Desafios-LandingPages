@@ -7,11 +7,8 @@
 </br>
 
   📝Nesse vídeo foi ensinado a fazer a tela de login da Riot Games, foi muito legal fazer esse projetin,nele aprendi mais sobre validação de input e forEach e também revisei e aprendi conceitos novos de css.
-  <div style="display: flex; gap: 10px; align-items: center">
-  <img src="./src/img/youtube-svgrepo-com.svg" width="20px" alt="icon youtube "> <a href="https://www.youtube.com/watch?v=tyVvNj-UvxM"> vídeo</a>
-  </div>
-
-  <br>
+  
+  📺<a href="https://www.youtube.com/watch?v=tyVvNj-UvxM"> vídeo </a> 
 
   👾 <a href="https://samuelvitor1.github.io/Projetos-Desafios-LandingPages/Tela-de-Login-RiotGames/index.html">Site</a>
 
